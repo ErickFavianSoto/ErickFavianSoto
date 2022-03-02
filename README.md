@@ -1,4 +1,11 @@
-### Hi there 👋
+![image](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
+### alert("Hello world! 👋") 
+### Mi nombre es Erick Soto.
+### Soy un ingeniero de México, me gusta desarrollar aplicaciones útiles para las personas. ☑ 
+### Cuanto más pueda aprender mejor, me gusta estudiar y poder hacer cosas muy locas con las tecnologías que voy aprendiendo. 📙 
+### El café y el código son mi pasión. ☕🖥 
+### Tengo 2 años de experiencia en esto que amo. ♥
+
 
 <!--
 **ErickFavianSoto/ErickFavianSoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
