@@ -7,7 +7,7 @@
 > Tengo 2 años de experiencia en esto que amo. ♥
 
 ### Puedes ver un poco mas en mi [Portafolio](https://erickfaviansoto.github.io/ErickSGPortafolio/).
-> # ![image](https://i.giphy.com/media/4O04GvNyqtSJa/giphy.gif) "¿Internet? ¿Todavía anda eso por ahí?"
+> # ![image](https://i.giphy.com/media/4O04GvNyqtSJa/giphy.gif) "¿Internet? ¿Todavía anda eso por ahí?" ~Homero Simpson
 
 
 
